@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Alan%20Peñaloza&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <h1>Hi there, I'm Alan! 🚀</h1>
+  <p>Software Engineering Student @ UTA</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&color=blue" alt="Views" />
+</div>
 
   ### 🧑‍💻 Future Software Engineer | UTA - FISEI
   *Focusing on robust architecture, network security, and efficient workflows*
