@@ -14,7 +14,7 @@
 
 ---
 
-## 🔭 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" /> About Me
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" /> About Me
 *I am a dedicated Software Engineering student focused on building robust systems, mastering technical documentation, and exploring networking fundamentals.*
 
 - 📚 Currently in my **4th year** of Software Engineering.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> My Tech Stack
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> My Tech Stack
 
 ### 🧠 Languages & Core
 <p align="left">
