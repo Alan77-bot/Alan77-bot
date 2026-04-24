@@ -33,7 +33,9 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> 02 // TECHNOLOGICAL_MATRIX
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> <div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00DFFF&width=435&lines=01+%2F%2F+SYSTEM_OVERVIEW" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
