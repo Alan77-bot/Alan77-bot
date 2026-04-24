@@ -1,90 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=050a30&height=220&section=header&text=ALAN%20PEÑALOZA&fontSize=80&fontAlignY=35&fontAlign=center&animation=twinkling&theme=dark" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Alan%20|%20Software%20Engineering&fontSize=50&animation=twinkling&fontAlignY=38" width="100%" />
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi there! I'm Alan.
+*Studying Software Engineering at Universidad Técnica de Ambato (UTA - FISEI) | Ambato, Ecuador*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;[STATUS:ACTIVE];UNIVERSITY+UTA+-+FISEI;ARCHITECT+%7C+NETSEC+%7C+DOCS" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK_ID-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](YOUR_LINK_HERE)
+[![Email](https://img.shields.io/badge/EMAIL-STATION_CORE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:apenaloza0913@uta.edu.ec)
 
-<br/>
+</div>
 
-<p align="center">
-  <a href="mailto:apenaloza0913@uta.edu.ec">
-    <img src="https://img.shields.io/badge/TERMINAL-PENALOZA.EXE-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00DFFF&labelColor=1a1a1a&borderColor=00DFFF" />
-  </a>
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN_CORE-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=007ACC&labelColor=1a1a1a&borderColor=007ACC" />
-  </a>
+---
+
+## 🔭 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" /> About Me
+*I am a dedicated Software Engineering student focused on building robust systems, mastering technical documentation, and exploring networking fundamentals.*
+
+- 📚 Currently in my **4th year** of Software Engineering.
+- 🏗 Working on improving collaboration workflows using **Git Flow**.
+- 🛠 Deep diving into **Java Swing** for UI development and **Cisco** network configurations.
+- ✍ Passionate about producing high-quality academic and technical documentation using **LaTeX**.
+- ⚽ When not debugging, I follow global football analytics.
+
+---
+
+## 🛠 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> My Tech Stack
+
+### 🧠 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<br/>
-</div>
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/NetBeans-181717?style=for-the-badge&logo=netbeans&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🛡️ Specialty Areas
+<p align="left">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco_Networking-040306?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux_Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="30" height="30" /> SYSTEM.LOG // PROFILE_SUMMARY
-
-Estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato. Mi enfoque es el desarrollo de sistemas críticos, arquitecturas resilientes y seguridad de red avanzada.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Specialization-GIT_FLOW-00DFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infrastructure-CISCO_CCNA-white?style=flat-square" />
-  <img src="https://img.shields.io/badge/Format-LATEX_EXPERT-8813B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytics-FOOTBALL_DATA-FFD700?style=flat-square" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> TECHNOLOGICAL.MATRIX // STACK
-
-<br/>
+## 📊 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> Git Activity & Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CODE_FRAME-JAVA-ED8B00?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA_CORE-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
-<img src="https://img.shields.io/badge/LINGUA-TECHNICAL_ENG-00DFFF?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&border_radius=10&hide_border=true" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/NET_PROTOCOL-CISCO_CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/SEGMENT-VLANs_/_STP- white?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ENV-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-GITBASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/REPO_SYSTEM-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DOC_ENGINE-LATEX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/STRUCT-IEEE-00629B?style=for-the-badge" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan77-bot&theme=tokyonight&area=true&hide_border=true&border_radius=10" alt="Activity Graph" width="100%"/>
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> METRICS.LOG // PERFORMANCE
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=cyberverse&include_all_commits=true&count_private=true&border_radius=20&hide_border=true" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=cyberverse&hide=php&border_radius=20&hide_border=true" height="190px" />
-</div>
-
----
+<br>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberverse&quote=THE%20FUTURE%20IS%20NOT%20WRITTEN.%20IT%20IS%20COMPILED." />
-
+`SYSTEM_STATUS: ONLINE`
 <br/>
-<br/>
-
-<code>[SYSTEM_LOG: PROFILE_ACCESS_COUNT]</code>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=ACCESS_RECORDS&color=00DFFF&style=flat-square" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=PROFILE_VIEWS&color=007acc&style=for-the-badge" alt="Profile Views" />
 
 </div>
