@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Alan! 🚀</h1>
-  <p>Software Engineering Student @ UTA</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&color=blue" alt="Views" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Alan%20|%20Software%20Engineering&fontSize=50&animation=fadeIn" width="100%" />
+
+# Hi there! I'm Alan. 👋
+*Studying Software Engineering at Universidad Técnica de Ambato (UTA - FISEI) | Ambato, Ecuador*
+
+---
 
   ### 🧑‍💻 Future Software Engineer | UTA - FISEI
   *Focusing on robust architecture, network security, and efficient workflows*
