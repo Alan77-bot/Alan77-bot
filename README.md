@@ -1,63 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Alan%20|%20Software%20Engineering&fontSize=50&animation=fadeIn" width="100%" />
-
-# Hi there! I'm Alan. 👋
-*Studying Software Engineering at Technical University of Ambato (UTA - FISEI) | Ambato, Ecuador*
-
----
+  <br />
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Alan%20Peñaloza&fontSize=70&fontAlignY=35&fontAlign=center&animation=null" width="100%" />
 
   ### 🧑‍💻 Future Software Engineer | UTA - FISEI
   *Focusing on robust architecture, network security, and efficient workflows*
 
   <p align="center">
     <a href="mailto:apenaloza0913@uta.edu.ec">
-      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-white?style=flat&logo=gmail&logoColor=red&labelColor=white" />
     </a>
     <a href="https://linkedin.com/in/TU_USUARIO">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-TU_PERFIL-blue?style=flat&logo=linkedin&labelColor=white" />
     </a>
   </p>
 
-  ---
-</div>
+  <br />
+  <br />
+  <br />
 
-## 📑 Executive Summary
-I am a 4th-level **Software Engineering** student at the **Universidad Técnica de Ambato**. My academic journey is driven by a passion for technical precision, whether I'm configuring complex network topologies or architecting Java applications.
-
-* 🔭 **Current Project:** Refining **Git Flow** strategies for collaborative development.
-* 🛡️ **Networking:** Specialized in **Cisco Packet Tracer** (STP, VLANs, and Trunking).
-* 📚 **Documentation:** Heavy user of **LaTeX** for high-standard engineering reports.
-* 🌱 **Learning:** Exploring Advanced Database Management and UI/UX Design.
-
-## 🛠 Skills & Toolbox
-
-| Category | Tools |
-| :--- | :--- |
-| **Development** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/-Cisco_Packet_Tracer-040306?style=flat-square&logo=cisco&logoColor=white) ![VLAN](https://img.shields.io/badge/-VLAN_Routing-blue?style=flat-square) |
-| **Documentation** | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
-| **Environment** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-181717?style=flat-square&logo=apache-netbeans&logoColor=white) |
-
----
-
-## 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="185px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=tokyonight&hide=php,css" height="185px" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan77-bot&theme=tokyonight&area=true" width="100%" />
 </div>
 
 ---
 
-## ⚽ Fun Fact
-> When I'm not coding or analyzing network traffic, I'm deep into **football analytics**. I enjoy dissecting match trends and European league statistics.
+<br />
+
+## 📑 Profile Summary
+
+I am a **Software Engineering** student at the Universidad Técnica de Ambato. I specialize in optimizing technical workflows, designing secure network infrastructures, and technical academic documentation.
+
+* ⚙️ **Specialization:** Git Flow strategies for collaborative development.
+* 🛡️ **Networking:** Cisco Certified Network Associate coursework (STP, VLANs).
+* 📚 **Documentation:** Expert technical reporting using **LaTeX**.
+* ⚽ **Interest:** Advanced football data analytics.
+
+<br />
+
+---
+
+<br />
+
+## 🛠️ Technical Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><strong>Programming</strong></td>
+    <td align="center" width="25%"><strong>Networking</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+    <td align="center" width="25%"><strong>Academic</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Java (Swing/JDBC)<br>
+      • SQL / Database design<br>
+      • Technical English
+    </td>
+    <td valign="top">
+      • Cisco Certified CCNA<br>
+      • Enterprise Routing<br>
+      • STP & VLANs
+    </td>
+    <td valign="top">
+      • Gitbash / CLI<br>
+      • NetBeans / VS Code<br>
+      • Project Management
+    </td>
+    <td valign="top">
+      • LaTeX Expert<br>
+      • Formal Reporting<br>
+      • IEEE bibliography
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
+## 📈 Activity Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat-square" alt="Views" />
-  <br/>
-  <sub><i>"The only way to do great work is to love what you do."</i></sub>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=default&include_all_commits=true&count_private=true&animation=null&custom_title=My%20Stats" />
+      </td>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=default&hide=php&animation=null" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=Software%20is%20a%20great%20combination%20of%20artistry%20and%20engineering." />
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
 </div>
