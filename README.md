@@ -1,75 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=ALAN%20PEÑALOZA&fontSize=80&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20//%20SYSTEMS%20ARCHITECT&descAlignY=65&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=050a30&height=220&section=header&text=ALAN%20PEÑALOZA&fontSize=80&fontAlignY=35&fontAlign=center&animation=twinkling&theme=dark" width="100%" />
 
-<br />
+<br/>
 
-### ⚡ Systems Engineering Explorer | UTA - FISEI
-*“Transforming logic into architecture. Optimizing the digital flow.”*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;[STATUS:ACTIVE];UNIVERSITY+UTA+-+FISEI;ARCHITECT+%7C+NETSEC+%7C+DOCS" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
   <a href="mailto:apenaloza0913@uta.edu.ec">
-    <img src="https://img.shields.io/badge/Connect-Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/TERMINAL-PENALOZA.EXE-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00DFFF&labelColor=1a1a1a&borderColor=00DFFF" />
   </a>
   <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Network-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN_CORE-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=007ACC&labelColor=1a1a1a&borderColor=007ACC" />
   </a>
 </p>
 
+<br/>
 </div>
 
 ---
 
-## 🛰️ Digital Overview
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="30" height="30" /> SYSTEM.LOG // PROFILE_SUMMARY
 
-Desarrollo soluciones bajo el paradigma de **ingeniería de precisión**. Mi enfoque reside en la convergencia de infraestructuras críticas, flujos de trabajo automatizados y el rigor académico.
+Estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato. Mi enfoque es el desarrollo de sistemas críticos, arquitecturas resilientes y seguridad de red avanzada.
 
-* **💠 Core Architecture:** Implementación de flujos de trabajo avanzados con Git Flow.
-* **🌐 Network Intelligence:** Especialista en infraestructuras Cisco (STP, VLANs, EtherChannel).
-* **📑 High-Level Documentation:** Estructuración de reportes técnicos complejos mediante LaTeX.
-* **📊 Data Insights:** Análisis predictivo aplicado a estadísticas deportivas de élite.
+<div align="center">
+  <img src="https://img.shields.io/badge/Specialization-GIT_FLOW-00DFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-CISCO_CCNA-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/Format-LATEX_EXPERT-8813B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics-FOOTBALL_DATA-FFD700?style=flat-square" />
+</div>
 
 ---
 
-## 🛠️ Technological Matrix
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> TECHNOLOGICAL.MATRIX // STACK
+
+<br/>
 
 <div align="center">
 
-| 🧠 Development | 🛡️ Infrastructure | 🚀 DevOps & Env | 📄 Scientific Doc |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Cisco_CCNA-005073?style=flat-square&logo=cisco&logoColor=white" /> | <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/SQL_Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> | <img src="https://img.shields.io/badge/Routing-007ACC?style=flat-square" /> | <img src="https://img.shields.io/badge/CLI_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/IEEE_Standard-00629B?style=flat-square" /> |
-| <img src="https://img.shields.io/badge/Swing_UI-007ACC?style=flat-square" /> | <img src="https://img.shields.io/badge/VLAN_Sec-FFD700?style=flat-square" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> | <img src="https://img.shields.io/badge/Academic_Research-white?style=flat-square" /> |
+<img src="https://img.shields.io/badge/CODE_FRAME-JAVA-ED8B00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA_CORE-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
+<img src="https://img.shields.io/badge/LINGUA-TECHNICAL_ENG-00DFFF?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NET_PROTOCOL-CISCO_CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/SEGMENT-VLANs_/_STP- white?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ENV-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/CLI-GITBASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/REPO_SYSTEM-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/DOC_ENGINE-LATEX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/STRUCT-IEEE-00629B?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚡ Performance Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> METRICS.LOG // PERFORMANCE
+
+<br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-      </td>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=tokyonight&hide=php&border_radius=10" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=cyberverse&include_all_commits=true&count_private=true&border_radius=20&hide_border=true" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=cyberverse&hide=php&border_radius=20&hide_border=true" height="190px" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20compile%20it." />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberverse&quote=THE%20FUTURE%20IS%20NOT%20WRITTEN.%20IT%20IS%20COMPILED." />
 
-<br />
+<br/>
+<br/>
 
-`STAT_LOG: SYSTEM_ACCESS_COUNT`
-<br />
-<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=ACCESS_RECORDS&color=007acc&style=flat-square" alt="Views" />
+<code>[SYSTEM_LOG: PROFILE_ACCESS_COUNT]</code>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=ACCESS_RECORDS&color=00DFFF&style=flat-square" alt="Views" />
 
 </div>
