@@ -1,110 +1,75 @@
 <div align="center">
 
-  <br />
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Alan%20Peñaloza&fontSize=70&fontAlignY=35&fontAlign=center&animation=null" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=ALAN%20PEÑALOZA&fontSize=80&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20//%20SYSTEMS%20ARCHITECT&descAlignY=65&descSize=20" width="100%" />
 
-  ### 🧑‍💻 Future Software Engineer | UTA - FISEI
-  *Focusing on robust architecture, network security, and efficient workflows*
+<br />
 
-  <p align="center">
-    <a href="mailto:apenaloza0913@uta.edu.ec">
-      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-white?style=flat&logo=gmail&logoColor=red&labelColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/TU_USUARIO">
-      <img src="https://img.shields.io/badge/LinkedIn-TU_PERFIL-blue?style=flat&logo=linkedin&labelColor=white" />
-    </a>
-  </p>
+### ⚡ Systems Engineering Explorer | UTA - FISEI
+*“Transforming logic into architecture. Optimizing the digital flow.”*
 
-  <br />
-  <br />
-  <br />
+<p align="center">
+  <a href="mailto:apenaloza0913@uta.edu.ec">
+    <img src="https://img.shields.io/badge/Connect-Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Network-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<br />
+## 🛰️ Digital Overview
 
-## 📑 Profile Summary
+Desarrollo soluciones bajo el paradigma de **ingeniería de precisión**. Mi enfoque reside en la convergencia de infraestructuras críticas, flujos de trabajo automatizados y el rigor académico.
 
-I am a **Software Engineering** student at the Universidad Técnica de Ambato. I specialize in optimizing technical workflows, designing secure network infrastructures, and technical academic documentation.
-
-* ⚙️ **Specialization:** Git Flow strategies for collaborative development.
-* 🛡️ **Networking:** Cisco Certified Network Associate coursework (STP, VLANs).
-* 📚 **Documentation:** Expert technical reporting using **LaTeX**.
-* ⚽ **Interest:** Advanced football data analytics.
-
-<br />
+* **💠 Core Architecture:** Implementación de flujos de trabajo avanzados con Git Flow.
+* **🌐 Network Intelligence:** Especialista en infraestructuras Cisco (STP, VLANs, EtherChannel).
+* **📑 High-Level Documentation:** Estructuración de reportes técnicos complejos mediante LaTeX.
+* **📊 Data Insights:** Análisis predictivo aplicado a estadísticas deportivas de élite.
 
 ---
 
-<br />
+## 🛠️ Technological Matrix
 
-## 🛠️ Technical Stack
+<div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Programming</strong></td>
-    <td align="center" width="25%"><strong>Networking</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
-    <td align="center" width="25%"><strong>Academic</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Java (Swing/JDBC)<br>
-      • SQL / Database design<br>
-      • Technical English
-    </td>
-    <td valign="top">
-      • Cisco Certified CCNA<br>
-      • Enterprise Routing<br>
-      • STP & VLANs
-    </td>
-    <td valign="top">
-      • Gitbash / CLI<br>
-      • NetBeans / VS Code<br>
-      • Project Management
-    </td>
-    <td valign="top">
-      • LaTeX Expert<br>
-      • Formal Reporting<br>
-      • IEEE bibliography
-    </td>
-  </tr>
-</table>
+| 🧠 Development | 🛡️ Infrastructure | 🚀 DevOps & Env | 📄 Scientific Doc |
+| :--- | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/Cisco_CCNA-005073?style=flat-square&logo=cisco&logoColor=white" /> | <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/SQL_Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> | <img src="https://img.shields.io/badge/Routing-007ACC?style=flat-square" /> | <img src="https://img.shields.io/badge/CLI_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/IEEE_Standard-00629B?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/Swing_UI-007ACC?style=flat-square" /> | <img src="https://img.shields.io/badge/VLAN_Sec-FFD700?style=flat-square" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> | <img src="https://img.shields.io/badge/Academic_Research-white?style=flat-square" /> |
 
-<br />
+</div>
 
 ---
 
-<br />
-
-## 📈 Activity Metrics
+## ⚡ Performance Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=default&include_all_commits=true&count_private=true&animation=null&custom_title=My%20Stats" />
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
       </td>
       <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=default&hide=php&animation=null" />
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=tokyonight&hide=php&border_radius=10" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
-
 ---
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20compile%20it." />
+
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=Software%20is%20a%20great%20combination%20of%20artistry%20and%20engineering." />
-  <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
+`STAT_LOG: SYSTEM_ACCESS_COUNT`
+<br />
+<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=ACCESS_RECORDS&color=007acc&style=flat-square" alt="Views" />
+
 </div>
