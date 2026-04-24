@@ -1,14 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Alan%20|%20Peñaloza%20&fontSize=50&animation=twinkling&fontAlignY=38" width="100%" />
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi there! I'm Alan.
-*Studying Software Engineering at Universidad Técnica de Ambato (UTA - FISEI) | Ambato, Ecuador*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=ALAN%20PEÑALOZA&fontSize=80&animation=fadeIn&fontColor=00DFFF" width="100%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&width=500&lines=FUTURE+SOFTWARE+ENGINEER;[SYSTEM+LOG:+ACTIVE];STATION:+AMBATO,+ECUADOR" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/EMAIL-STATION_CORE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:apenaloza0913@uta.edu.ec)
+<br/>
+
+<p align="center">
+  <a href="mailto:apenaloza0913@uta.edu.ec">
+    <img src="https://img.shields.io/badge/DIRECT_UPLINK-apenaloza0913@uta.edu.ec-00DFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK_HERE">
+    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+  </a>
+</p>
 
 </div>
 
