@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Alan%20|%20Software%20Engineering&fontSize=50&animation=fadeIn" width="100%" />
 
 # Hi there! I'm Alan. 👋
-*Studying Software Engineering at Universidad Técnica de Ambato (UTA - FISEI) | Ambato, Ecuador*
+*Studying Software Engineering at Technical University of Ambato (UTA - FISEI) | Ambato, Ecuador*
 
 ---
 
