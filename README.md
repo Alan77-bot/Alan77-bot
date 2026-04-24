@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Alan%20|%20Software%20Engineering&fontSize=50&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Alan%20|%20Peñaloza%20&fontSize=50&animation=twinkling&fontAlignY=38" width="100%" />
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hi there! I'm Alan.
 *Studying Software Engineering at Universidad Técnica de Ambato (UTA - FISEI) | Ambato, Ecuador*
