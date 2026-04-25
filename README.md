@@ -1,108 +1,71 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Alan%20Peñaloza&fontSize=70&animation=null" width="100%" />
 
-  <br />
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Alan%20Peñaloza&fontSize=70&fontAlignY=35&fontAlign=center&animation=null" width="100%" />
-
-  ### 🧑‍💻 Future Software Engineer | UTA - FISEI
-  *Focusing on robust architecture, network security, and efficient workflows*
+  ### 🚀 Aspiring Software Engineer | UTA - FISEI
+  *Passionate about clean architecture, network optimization, and professional documentation.*
 
   <p align="center">
     <a href="mailto:apenaloza0913@uta.edu.ec">
-      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-white?style=flat&logo=gmail&logoColor=red&labelColor=white" />
+      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-   
   </p>
-
-  <br />
-  <br />
-  <br />
-
 </div>
 
 ---
 
-<br />
+## 🔭 Currently Focusing On
+- **Clean Architecture & GitFlow:** Implementing scalable workflows for collaborative software projects.
+- **Network Engineering:** Mastering Spanning Tree Protocol (STP) and VLAN management in enterprise environments.
+- **UI/UX in Java:** Crafting custom renderers and advanced components for desktop applications.
 
-## 📑 Profile Summary
+## 🛠️ Tech Stack & Tools
 
-I am a **Software Engineering** student at the Universidad Técnica de Ambato. I specialize in optimizing technical workflows, designing secure network infrastructures, and technical academic documentation.
+### 💻 Programming & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-* ⚙️ **Specialization:** Git Flow strategies for collaborative development.
-* 🛡️ **Networking:** Cisco Certified Network Associate coursework (STP, VLANs).
-* 📚 **Documentation:** Expert technical reporting using **LaTeX**.
-* ⚽ **Interest:** Advanced football data analytics.
+### 🌐 Networking & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-040306?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-212121?style=for-the-badge&logo=cisco&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-<br />
-
----
-
-<br />
-
-## 🛠️ Technical Stack
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Programming</strong></td>
-    <td align="center" width="25%"><strong>Networking</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
-    <td align="center" width="25%"><strong>Academic</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Java (Swing/JDBC)<br>
-      • SQL / Database design<br>
-      • Technical English
-    </td>
-    <td valign="top">
-      • Cisco Certified CCNA<br>
-      • Enterprise Routing<br>
-      • STP & VLANs
-    </td>
-    <td valign="top">
-      • Gitbash / CLI<br>
-      • NetBeans / VS Code<br>
-      • Project Management
-    </td>
-    <td valign="top">
-      • LaTeX Expert<br>
-      • Formal Reporting<br>
-      • IEEE bibliography
-    </td>
-  </tr>
-</table>
-
-<br />
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-<br />
+## 💻 Featured Projects
 
-## 📈 Activity Metrics
+- **Network Topology Optimization:** Designing and troubleshooting complex VLAN and STP configurations for academic lab environments.
+- **Java Desktop Solutions:** Developing interactive systems using NetBeans and JDBC, focusing on custom JTable and JList renderers.
+- **Database Modeling:** Architecting ternary relationships and SQL schemas for specialized hospital and service management systems.
+- **Technical Documentation:** Creating high-standard IEEE engineering reports using LaTeX and BibTeX.
+
+---
+
+## 📈 Stats & Connectivity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=default&include_all_commits=true&count_private=true&animation=null&custom_title=My%20Stats" />
-      </td>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=default&hide=php&animation=null" />
-      </td>
-    </tr>
-  </table>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=tokyonight&hide=php" />
 </div>
 
-<br />
-
----
-
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=Software%20is%20a%20great%20combination%20of%20artistry%20and%20engineering." />
-  <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
+  <b>🏃‍♂️ Outside of code:</b> Avid follower of European football statistics and analytics. ⚽
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat-square" alt="Views" />
 </div>
