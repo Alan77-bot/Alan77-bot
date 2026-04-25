@@ -12,9 +12,7 @@
     <a href="mailto:apenaloza0913@uta.edu.ec">
       <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-white?style=flat&logo=gmail&logoColor=red&labelColor=white" />
     </a>
-    <a href="https://linkedin.com/in/TU_USUARIO">
-      <img src="https://img.shields.io/badge/LinkedIn-TU_PERFIL-blue?style=flat&logo=linkedin&labelColor=white" />
-    </a>
+   
   </p>
 
   <br />
