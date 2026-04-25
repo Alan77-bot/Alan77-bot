@@ -1,86 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00DFFF&height=280&section=header&text=ALAN%20PEÑALOZA%20%7C%2010&fontSize=80&animation=fadeIn&fontAlignY=35&desc=NEYMAR%20JR%20%26%20MESSI%20ENTHUSIAST&descAlignY=60" width="100%" />
+  <br />
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Alan%20Peñaloza&fontSize=70&fontAlignY=35&fontAlign=center&animation=null" width="100%" />
 
-<br/>
+  ### 🧑‍💻 Future Software Engineer | UTA - FISEI
+  *Focusing on robust architecture, network security, and efficient workflows*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&width=600&lines=🏆+MESSI+IS+THE+GOAT;⚽+NEYMAR+IS+THE+MAGIC;💻+SOFTWARE+ENGINEERING+STUDENT;[STATUS:+WATCHING+THE+10S]" alt="Typing SVG" />
+  <p align="center">
+    <a href="mailto:apenaloza0913@uta.edu.ec">
+      <img src="https://img.shields.io/badge/Email-apenaloza0913@uta.edu.ec-white?style=flat&logo=gmail&logoColor=red&labelColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/TU_USUARIO">
+      <img src="https://img.shields.io/badge/LinkedIn-TU_PERFIL-blue?style=flat&logo=linkedin&labelColor=white" />
+    </a>
+  </p>
+
+  <br />
+  <br />
+  <br />
 
 </div>
 
 ---
 
-## 🛰️ // THE FANATIC'S LOG (BIO)
+<br />
 
-*“In a world of variables and logic, I choose the magic of a 10. My code is structured, but my heart follows the rhythm of a Brazilian dribble and an Argentine finish.”*
+## 📑 Profile Summary
 
-- **⚽ THE PASSION:** Obsessed with the creative playmaking of **Neymar Jr.** and the tactical perfection of **Lionel Messi**. I don't just watch football; I analyze it like a system.
-- **👨‍💻 THE PROFILE:** 20-year-old **Software Engineering** student at **UTA - FISEI**. I build software with the same precision Messi uses for a free kick.
-- **🏗️ ARCHITECTURE:** Expert in **Git Flow** (my tactical formation) and **LaTeX** (my match reporting tool).
+I am a **Software Engineering** student at the Universidad Técnica de Ambato. I specialize in optimizing technical workflows, designing secure network infrastructures, and technical academic documentation.
+
+* ⚙️ **Specialization:** Git Flow strategies for collaborative development.
+* 🛡️ **Networking:** Cisco Certified Network Associate coursework (STP, VLANs).
+* 📚 **Documentation:** Expert technical reporting using **LaTeX**.
+* ⚽ **Interest:** Advanced football data analytics.
+
+<br />
 
 ---
 
-## 🌟 // THE IDOLS: NJR & LEO
+<br />
 
-<div align="center">
-<table border="0">
+## 🛠️ Technical Stack
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>🇧🇷 THE MAGICIAN (NJR)</h3>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXN4M2J3bmR0bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxX1p8H6kE/giphy.gif" width="100%" />
-      <p><i>Inspiration for creativity and "Joga Bonito" in my UI/UX designs.</i></p>
+    <td align="center" width="25%"><strong>Programming</strong></td>
+    <td align="center" width="25%"><strong>Networking</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+    <td align="center" width="25%"><strong>Academic</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Java (Swing/JDBC)<br>
+      • SQL / Database design<br>
+      • Technical English
     </td>
-    <td align="center" width="50%">
-      <h3>🇦🇷 THE GOAT (MESSI)</h3>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXN4M2J3bmR0bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/uS07XdQIPnuH6/giphy.gif" width="100%" />
-      <p><i>Inspiration for efficiency and precision in my Backend logic.</i></p>
+    <td valign="top">
+      • Cisco Certified CCNA<br>
+      • Enterprise Routing<br>
+      • STP & VLANs
+    </td>
+    <td valign="top">
+      • Gitbash / CLI<br>
+      • NetBeans / VS Code<br>
+      • Project Management
+    </td>
+    <td valign="top">
+      • LaTeX Expert<br>
+      • Formal Reporting<br>
+      • IEEE bibliography
     </td>
   </tr>
 </table>
-</div>
+
+<br />
 
 ---
 
-## 📋 // TACTICAL LINEUP (TECH STACK)
+<br />
 
-*Even a legend needs a good team. Here is my technical starting XI:*
+## 📈 Activity Metrics
 
 <div align="center">
-
-| **OFFENSE (Dev)** | **DEFENSE (Networking)** | **TACTICS (Tools)** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Cisco_CCNA-040306?style=flat-square&logo=cisco&logoColor=white" /> | <img src="https://img.shields.io/badge/LaTeX_Expert-008080?style=flat-square&logo=latex&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/VLANs_/_STP-00DFFF?style=flat-square" /> | <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" /> |
-
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=default&include_all_commits=true&count_private=true&animation=null&custom_title=My%20Stats" />
+      </td>
+      <td>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=default&hide=php&animation=null" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br />
 
 ---
 
-## 📈 // MATCH PERFORMANCE (STATS)
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=cyberverse&count_private=true&hide_border=true&title_color=00DFFF&icon_color=00DFFF" height="180px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan77-bot&theme=react-dark&color=00DFFF&line=00DFFF&point=00DFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberverse&quote=I+learned+everything+about+life+with+a+ball+at+my+feet.&text_color=00DFFF" />
-
-<br/>
-
-<a href="mailto:apenaloza0913@uta.edu.ec">
-  <img src="https://img.shields.io/badge/UPLINK-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/TU_USUARIO">
-  <img src="https://img.shields.io/badge/SCOUTING-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-<code>[STADIUM_CAPACITY_LOG]</code>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=VIEWERS_IN_STADIUM&color=00DFFF&style=flat-square" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=Software%20is%20a%20great%20combination%20of%20artistry%20and%20engineering." />
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
 </div>
