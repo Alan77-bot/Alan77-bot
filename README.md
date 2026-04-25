@@ -1,81 +1,122 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=ALAN%20PEÑALOZA&fontSize=80&animation=fadeIn&fontColor=00DFFF" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00DFFF&center=true&vCenter=true&width=500&lines=FUTURE+SOFTWARE+ENGINEER;[SYSTEM+LOG:+ACTIVE];STATION:+AMBATO,+ECUADOR" alt="Typing SVG" />
-
-<br/>
-
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Alan%20Pe%C3%B1aloza&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Builder%20of%20things%20that%20matter&descAlignY=58&descSize=18&descColor=a8b2d8"/>
+</div>
+---
+ 
+<div align="center">
+### 👋 ¡Hola! Soy Alan Peñaloza
+ 
+🎓 Estudiante de Ingeniería en Software en la **Universidad Técnica de Ambato** (FISEI - UTA)  
+💡 Apasionado por construir software limpio, escalable y con propósito  
+🌱 Actualmente explorando **Clean Architecture**, principios **SOLID** y flujos de trabajo con **GitFlow**  
+🏃‍♂️ Fuera del código: corredor activo y gamer empedernido 🎮
+ 
+</div>
+---
+ 
+## 🛠️ Tech Stack & Herramientas
+ 
+<div align="center">
+<!-- Lenguajes -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ 
+<!-- Frameworks -->
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ 
+<!-- DB & Tools -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ 
+</div>
+---
+ 
+## 🚀 Proyectos Destacados
+ 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎬 Cinema Website</h3>
 <p align="center">
-  <a href="mailto:apenaloza0913@uta.edu.ec">
-    <img src="https://img.shields.io/badge/DIRECT_UPLINK-apenaloza0913@uta.edu.ec-00DFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK_HERE">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
-  </a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
-
+<p>Plataforma de cine con UI moderna construida en Angular, enfocada en componentes reutilizables y arquitectura escalable. 🍿</p>
+</td>
+<td width="50%">
+<h3 align="center">🚛 Gestión Logística de Transporte</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+<p>Sistema para el control y seguimiento de cooperativas de transporte con bases de datos relacionales complejas. 🗺️</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📐 Algoritmos de Optimización</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+</p>
+<p>Implementación de métodos clásicos de investigación de operaciones: Simplex, Esquina Noroeste y más. 🧮</p>
+</td>
+<td width="50%">
+<h3 align="center">🏗️ Arquitectura Limpia</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOLID-0f3460?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitFlow-F05033?style=flat-square&logo=git&logoColor=white"/>
+</p>
+<p>Explorando y aplicando principios SOLID y Clean Architecture en proyectos reales y académicos. 🧼</p>
+</td>
+</tr>
+</table>
 </div>
-
 ---
-
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" /> About Me
-*I am a dedicated Software Engineering student focused on building robust systems, mastering technical documentation, and exploring networking fundamentals.*
-
-- 📚 Currently in my **4th year** of Software Engineering.
-- 🏗 Working on improving collaboration workflows using **Git Flow**.
-- 🛠 Deep diving into **Java Swing** for UI development and **Cisco** network configurations.
-- ✍ Passionate about producing high-quality academic and technical documentation using **LaTeX**.
-- ⚽ When not debugging, I follow global football analytics.
-
----
-
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> My Tech Stack
-
-### 🧠 Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/NetBeans-181717?style=for-the-badge&logo=netbeans&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### 🛡️ Specialty Areas
-<p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Cisco_Networking-040306?style=for-the-badge&logo=cisco&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Linux_Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📊 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> Git Activity & Stats
-
+ 
+## 📊 GitHub Stats
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&border_radius=10&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan77-bot&theme=tokyonight&area=true&hide_border=true&border_radius=10" alt="Activity Graph" width="100%"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanpenaloza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpenaloza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
-<br>
-
 <div align="center">
-
-`SYSTEM_STATUS: ONLINE`
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=PROFILE_VIEWS&color=007acc&style=for-the-badge" alt="Profile Views" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=alanpenaloza&theme=tokyonight&hide_border=true)
+ 
+</div>
+---
+ 
+## 🌐 Conectemos
+ 
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanpenaloza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanpenaloza)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanpenaloza)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com)
+ 
+</div>
+---
+ 
+<div align="center">
+```text
+🔭 Actualmente en:     Clean Architecture & SOLID Principles
+🌱 Aprendiendo:        System Design & Cloud Architecture
+💬 Pregúntame sobre:   Backend, DB Design, Algoritmos
+⚡ Fun fact:           El mejor código es el que nunca tuviste que escribir 😄
+```
+ 
+</div>
+---
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 </div>
