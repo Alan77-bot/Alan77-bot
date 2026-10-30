@@ -1,55 +1,66 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=230&section=header&text=Alan%20Pe%C3%B1aloza&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineering%20Student%20%7C%20UTA%20%E2%80%A2%20FISEI&descAlignY=58&descSize=19&descColor=ccf3ff" alt="Alan Peñaloza - Software Engineering" />👋 ¡Hola! Soy Alan | Hi, I'm Alan
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+software+with+purpose+%F0%9F%9A%80;Java+%E2%80%A2+SQL+%E2%80%A2+Clean+Architecture;Cisco+Networks+%E2%80%A2+VLANs+%E2%80%A2+STP;GitFlow+%E2%80%A2+Teamwork+%E2%80%A2+Documentation;Code%2C+football+and+continuous+learning+%E2%9A%BD" alt="Áreas de interés" /><p>
-  <a href="mailto:apenaloza0913@uta.edu.ec"><img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://github.com/Alan77-bot"><img src="https://img.shields.io/badge/GitHub-Alan77--bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://alan77-bot.github.io"><img src="https://img.shields.io/badge/Portfolio-Ver%20sitio-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" /></a>
-</p><img src="https://komarev.com/ghpvc/?username=Alan77-bot&label=Visitas%20al%20perfil&color=0284c7&style=flat-square" alt="Visitas al perfil" /></div>👨‍💻 Sobre mí / About me
-Soy estudiante de Ingeniería de Software en la Universidad Técnica de Ambato (UTA – FISEI). Me interesa crear soluciones claras, mantenibles y útiles, combinando desarrollo de software, bases de datos e infraestructura de redes.
-- 🎓 Formación: Ingeniería de Software · UTA / FISEI
-- ☕ Desarrollo: Java, JDBC, interfaces de escritorio y SQL
-- 🌐 Redes: Cisco Packet Tracer, VLANs, STP y troubleshooting
-- 🧩 Buenas prácticas: Clean Architecture, Git y GitFlow
-- 📝 Documentación: LaTeX, BibTeX y formato IEEE
-- ⚽ Fuera del código: fútbol, estadísticas, Messi y Neymar
-💡 «El código limpio no se escribe por accidente».
-
-🚀 Actualmente explorando
-Área	Enfoque
-🏗️ Arquitectura de software	Separación de responsabilidades, mantenibilidad y GitFlow
-☕ Aplicaciones Java	Interfaces con Swing, JTable, JList y persistencia JDBC
-🌐 Ingeniería de redes	VLANs, STP, topologías y diagnóstico con Cisco
-🗄️ Modelado de datos	Diseño relacional, consultas SQL y PostgreSQL
-📄 Escritura técnica	Informes académicos con LaTeX, BibTeX e IEEE
-
-
-🛠️ Tecnologías y herramientas
-<div align="center">Lenguajes y bases de datos
-<img src="https://skillicons.dev/icons?i=java,html,css,js,postgres,mysql&theme=dark" alt="Java, HTML, CSS, JavaScript, PostgreSQL y MySQL" />
-Herramientas y entorno
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex&theme=dark" alt="Git, GitHub, VS Code, Linux y LaTeX" />
-Redes y desarrollo de escritorio
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-<img src="https://img.shields.io/badge/Packet%20Tracer-111827?style=for-the-badge&logo=cisco&logoColor=38BDF8" alt="Packet Tracer" />
-<img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
-<img src="https://img.shields.io/badge/JDBC-334155?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" /></div>📌 Proyectos y áreas de práctica
-Proyecto / Área	Descripción	Tecnologías
-🌐 Network Topology Optimization	Diseño, segmentación y diagnóstico de redes con VLANs y STP.	Cisco · Packet Tracer
-🖥️ Java Desktop Solutions	Interfaces interactivas con componentes Swing y acceso a datos.	Java · NetBeans · JDBC
-🗄️ Database Modeling	Modelado relacional y diseño de esquemas para casos académicos.	SQL · PostgreSQL
-📄 Technical Documentation	Elaboración de documentación de ingeniería con estructura IEEE.	LaTeX · BibTeX
-⚽ Football Page	Sitio web dedicado al fútbol y a Messi y Neymar.	HTML · CSS · JavaScript
-
-
-🔎 Nota: estos son mis proyectos y áreas de práctica. Los enlaces a repositorios se incorporarán a medida que estén publicados.
-
-📊 Actividad en GitHub
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alan77-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan77-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" /><img width="75%" src="https://streak-stats.demolab.com?user=Alan77-bot&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" /></div><details>
-<summary>📈 Más sobre mi forma de trabajar</summary>Me gusta aprender construyendo proyectos, documentar decisiones técnicas y mejorar la organización del código. Mi objetivo es seguir desarrollando habilidades en ingeniería de software, arquitectura, bases de datos y redes.
-</details>⚽ Más allá del código
-<div align="center"><img src="https://img.shields.io/badge/F%C3%BAtbol-Mi%20pasi%C3%B3n-16A34A?style=for-the-badge" alt="Fútbol" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1d4ed8,100:0891b2&amp;height=220&amp;section=header&amp;text=Alan%20Pe%C3%B1aloza&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20UTA%20-%20FISEI&amp;descAlignY=59&amp;descSize=20" width="100%" alt="Alan Peñaloza" /><h2>👋 ¡Hola! Soy Alan | Hi, I'm Alan</h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Java+%7C+SQL+%7C+Clean+Architecture;Cisco+%7C+VLANs+%7C+STP;Git+%7C+GitFlow+%7C+Teamwork;Code+and+football+%E2%9A%BD" alt="Áreas de interés" /><p>
+<a href="mailto:apenaloza0913@uta.edu.ec"><img src="https://img.shields.io/badge/Correo-Contactar-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo" /></a>
+<a href="https://github.com/Alan77-bot"><img src="https://img.shields.io/badge/GitHub-Alan77--bot-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://alan77-bot.github.io"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0284C7?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Portafolio" /></a>
+</p><img src="https://komarev.com/ghpvc/?username=Alan77-bot&amp;label=Visitas%20al%20perfil&amp;color=0284c7&amp;style=flat-square" alt="Visitas al perfil" /></div>
+<h2>👨‍💻 Sobre mí / About me</h2><p>Soy estudiante de <strong>Ingeniería de Software en la Universidad Técnica de Ambato (UTA – FISEI)</strong>. Me interesa desarrollar soluciones claras, útiles y mantenibles, combinando software, bases de datos e infraestructura de redes.</p><ul>
+<li>🎓 <strong>Formación:</strong> Ingeniería de Software · UTA / FISEI</li>
+<li>☕ <strong>Desarrollo:</strong> Java, Swing, JDBC, SQL y desarrollo web</li>
+<li>🌐 <strong>Redes:</strong> Cisco Packet Tracer, VLANs, STP y troubleshooting</li>
+<li>🧩 <strong>Buenas prácticas:</strong> Clean Architecture, Git y GitFlow</li>
+<li>📝 <strong>Documentación:</strong> LaTeX, BibTeX y formato IEEE</li>
+<li>⚽ <strong>Intereses:</strong> fútbol, estadísticas, Messi y Neymar</li>
+</ul><blockquote><em>«El código limpio no se escribe por accidente».</em></blockquote>
+<h2>🚀 Actualmente explorando</h2><table>
+<thead><tr><th>Área</th><th>Enfoque</th></tr></thead>
+<tbody>
+<tr><td>🏗️ Arquitectura de software</td><td>Separación de responsabilidades, mantenibilidad y GitFlow</td></tr>
+<tr><td>☕ Aplicaciones Java</td><td>Swing, JTable, JList y persistencia JDBC</td></tr>
+<tr><td>🌐 Ingeniería de redes</td><td>VLANs, STP, topologías y diagnóstico Cisco</td></tr>
+<tr><td>🗄️ Bases de datos</td><td>Modelado relacional, SQL y PostgreSQL</td></tr>
+<tr><td>📄 Documentación técnica</td><td>Informes IEEE con LaTeX y BibTeX</td></tr>
+</tbody>
+</table>
+<h2>🛠️ Tecnologías y herramientas</h2><div align="center">
+<h3>Lenguajes y bases de datos</h3>
+<p><img src="https://skillicons.dev/icons?i=java,html,css,js,postgres,mysql&amp;theme=dark" alt="Java, HTML, CSS, JavaScript, PostgreSQL y MySQL" /></p>
+<h3>Herramientas</h3>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex&amp;theme=dark" alt="Git, GitHub, VS Code, Linux y LaTeX" /></p>
+<h3>Redes y escritorio</h3>
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-111827?style=for-the-badge&amp;logo=cisco&amp;logoColor=38BDF8" alt="Packet Tracer" />
+<img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&amp;logo=apachenetbeanside&amp;logoColor=white" alt="NetBeans" />
+<img src="https://img.shields.io/badge/JDBC-334155?style=for-the-badge" alt="JDBC" />
+</p>
+</div>
+<h2>📌 Proyectos y áreas de práctica</h2><table>
+<thead><tr><th>Proyecto</th><th>Descripción</th><th>Stack</th></tr></thead>
+<tbody>
+<tr><td>🌐 <strong>Network Topology Optimization</strong></td><td>Diseño y diagnóstico de redes con VLANs y STP.</td><td>Cisco · Packet Tracer</td></tr>
+<tr><td>🖥️ <strong>Java Desktop Solutions</strong></td><td>Interfaces Swing y conexión con bases de datos.</td><td>Java · NetBeans · JDBC</td></tr>
+<tr><td>🗄️ <strong>Database Modeling</strong></td><td>Diseño de modelos y esquemas relacionales.</td><td>SQL · PostgreSQL</td></tr>
+<tr><td>📄 <strong>Technical Documentation</strong></td><td>Documentación académica de ingeniería.</td><td>LaTeX · BibTeX · IEEE</td></tr>
+<tr><td>⚽ <strong>Football Page</strong></td><td>Sitio web sobre fútbol, Messi y Neymar.</td><td>HTML · CSS · JavaScript</td></tr>
+</tbody>
+</table><p><em>Los enlaces a repositorios se pueden añadir a medida que se publiquen.</em></p>
+<h2>📊 Actividad en GitHub</h2><div align="center">
+<p>Consulta mis repositorios, contribuciones y actividad en GitHub.</p>
+<a href="https://github.com/Alan77-bot?tab=repositories"><img src="https://img.shields.io/badge/Ver%20mis%20repositorios-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver repositorios" /></a>
+<a href="https://github.com/Alan77-bot"><img src="https://img.shields.io/badge/Ver%20mi%20actividad-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver actividad" /></a>
+<p><img src="https://streak-stats.demolab.com?user=Alan77-bot&amp;theme=tokyonight&amp;hide_border=true" alt="Racha de contribuciones de GitHub" /></p>
+</div><details>
+<summary><strong>📈 Mi forma de trabajar</strong></summary>
+<p>Me gusta aprender construyendo proyectos, documentar decisiones técnicas y organizar el código para que sea más fácil de comprender y mantener.</p>
+</details>
+<h2>⚽ Más allá del código</h2><div align="center">
+<p>
+<img src="https://img.shields.io/badge/F%C3%BAtbol-Mi%20pasi%C3%B3n-16A34A?style=for-the-badge" alt="Fútbol" />
 <img src="https://img.shields.io/badge/Messi-10-2563EB?style=for-the-badge" alt="Messi" />
-<img src="https://img.shields.io/badge/Neymar-10-EAB308?style=for-the-badge&labelColor=1F2937" alt="Neymar" />Me apasiona seguir el fútbol europeo, analizar estadísticas y disfrutar del talento de Messi y Neymar. ⚽
-🤝 Conectemos
-¿Te interesa colaborar en proyectos de software, redes o bases de datos? Puedes encontrarme en GitHub o escribirme a apenaloza0913@uta.edu.ec.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=115&section=footer" alt="Pie de página" /></div>
+<img src="https://img.shields.io/badge/Neymar-10-EAB308?style=for-the-badge&amp;labelColor=1F2937" alt="Neymar" />
+</p>
+<p>Me apasiona el fútbol europeo, seguir estadísticas y disfrutar del talento de <strong>Messi y Neymar</strong>.</p>
+<h2>🤝 Conectemos</h2>
+<p>¿Te interesa colaborar en proyectos de software, redes o bases de datos?<br>Escríbeme a <a href="mailto:apenaloza0913@uta.edu.ec">apenaloza0913@uta.edu.ec</a>.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1d4ed8,100:0891b2&amp;height=110&amp;section=footer" width="100%" alt="Pie de página" />
+</div>
